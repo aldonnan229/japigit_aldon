@@ -1,0 +1,82 @@
+D:\Documents\ACTUAL FINAL SEMESTER BC THATS A THING\IFT458>py japi.py
+Enter a stock symbol or quit: aapl
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "263.7500",
+        "03. high": "278.0900",
+        "04. low": "263.0000",
+        "05. price": "266.1700",
+        "06. volume": "71686208",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "289.0300",
+        "09. change": "-22.8600",
+        "10. change percent": "-7.9092%"
+    }
+}
+The current price of AAPL is: 266.1700
+Enter a stock symbol or quit: fsptx
+{
+    "Global Quote": {
+        "01. symbol": "FSPTX",
+        "02. open": "18.1200",
+        "03. high": "18.1200",
+        "04. low": "18.1200",
+        "05. price": "18.1200",
+        "06. volume": "0",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "19.6100",
+        "09. change": "-1.4900",
+        "10. change percent": "-7.5982%"
+    }
+}
+The current price of FSPTX is: 18.1200
+Enter a stock symbol or quit: sbux
+{
+    "Global Quote": {
+        "01. symbol": "SBUX",
+        "02. open": "70.5800",
+        "03. high": "74.0300",
+        "04. low": "70.0800",
+        "05. price": "70.8300",
+        "06. volume": "15930310",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "75.3400",
+        "09. change": "-4.5100",
+        "10. change percent": "-5.9862%"
+    }
+}
+The current price of SBUX is: 70.8300
+Enter a stock symbol or quit: work
+{
+    "Global Quote": {
+        "01. symbol": "WORK",
+        "02. open": "24.3300",
+        "03. high": "25.0500",
+        "04. low": "23.1300",
+        "05. price": "24.8900",
+        "06. volume": "10489148",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "26.4200",
+        "09. change": "-1.5300",
+        "10. change percent": "-5.7911%"
+    }
+}
+The current price of WORK is: 24.8900
+Enter a stock symbol or quit: znga
+{
+    "Global Quote": {
+        "01. symbol": "ZNGA",
+        "02. open": "6.5700",
+        "03. high": "6.7950",
+        "04. low": "6.4800",
+        "05. price": "6.5300",
+        "06. volume": "23815972",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "7.0600",
+        "09. change": "-0.5300",
+        "10. change percent": "-7.5071%"
+    }
+}
+The current price of ZNGA is: 6.5300
+Enter a stock symbol or quit: quit
